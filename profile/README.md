@@ -1,3 +1,3 @@
 # zenOSmosis Open Source
 
-A collection of utilities dedicated to the empowerment of humanity.
+<img src="https://user-images.githubusercontent.com/1139657/158093617-c49b5d28-2c66-4c02-9862-8afd0e286c5b.png" alt="zenOSmosis" style="border: 0" />
