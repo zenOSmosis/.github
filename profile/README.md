@@ -1,3 +1,5 @@
-# zenOSmosis Open Source
+# zenOSmosis
 
-A collection of utilities dedicated to the empowerment of humanity.
+<img src="https://user-images.githubusercontent.com/1139657/158094918-6994cb22-2354-42bb-8168-15f5d1f67bc1.png" alt="zenOSmosis" style="border: 0" />
+
+https://zenosmosis.com | https://reshell.org | https://speaker.app
