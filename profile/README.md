@@ -5,8 +5,9 @@ An engineering umbrella for **closed-source** products and **open-source** tooli
 ## Open-Source & Experiments
 
 Open-source and experimental work lives under **[@jzombie](https://github.com/jzombie)**.  
-Please file issues, discussions, and pull requests in the relevant `@jzombie` repository.
 
 - Website: **https://zenosmosis.com/**
-- Open-source: **https://github.com/jzombie**
+- Open-source and research projects: **https://github.com/jzombie**
 - Contact: **info@zenosmosis.com**
+
+Please file issues, discussions, and pull requests in the relevant `@jzombie` repository.
