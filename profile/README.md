@@ -8,5 +8,5 @@ Open-source and experimental work lives under **[@jzombie](https://github.com/jz
 Please file issues, discussions, and pull requests in the relevant `@jzombie` repository.
 
 - Website: **https://zenosmosis.com/**
-- Open source: **https://github.com/jzombie**
+- Open-source: **https://github.com/jzombie**
 - Contact: **info@zenosmosis.com**
